@@ -16,7 +16,7 @@
 
 ## 💻 Projeto
 
-Jogo da Velha desenvolvido em Maio de 2017 como trabalho da disciplina de Programação II [UENP].
+Jogo da Velha desenvolvido em Maio de 2017, como trabalho da disciplina de Programação II [UENP]
 
 ## 🚀 Tecnologias
 
