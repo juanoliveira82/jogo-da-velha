@@ -316,9 +316,9 @@ public class JanelaJogo extends javax.swing.JFrame {
         
         // Pede os nomes dos jogadores e os símbolos, e atribui nas variáveis.
         jogo.NomeJog1=JOptionPane.showInputDialog(rootPane, "Informe seu nome", "Jogador 1 - Nome", JOptionPane.QUESTION_MESSAGE);
-        jogo.simboloJog1=JOptionPane.showInputDialog(rootPane, "Informe o símbolo que deseja utilizar", "Jogador 1 - Simbolo", JOptionPane.QUESTION_MESSAGE);
+        jogo.simboloJog1=JOptionPane.showInputDialog(rootPane, "Informe o símbolo que deseja utilizar", "Jogador 1 - Símbolo", JOptionPane.QUESTION_MESSAGE);
         jogo.NomeJog2=JOptionPane.showInputDialog(rootPane, "Informe seu nome", "Jogador 2 - Nome", JOptionPane.QUESTION_MESSAGE);
-        jogo.simboloJog2=JOptionPane.showInputDialog(rootPane, "Informe o símbolo que deseja utilizar", "Jogador 2 - Simbolo", JOptionPane.QUESTION_MESSAGE);
+        jogo.simboloJog2=JOptionPane.showInputDialog(rootPane, "Informe o símbolo que deseja utilizar", "Jogador 2 - Símbolo", JOptionPane.QUESTION_MESSAGE);
         
         // Compara os símbolos, e caso sejam iguais, impede a continuação do jogo.
         if(jogo.simboloJog1.equals(jogo.simboloJog2)){
